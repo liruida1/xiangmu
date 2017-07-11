@@ -41,7 +41,6 @@
 20. Pull的意义是git pull相当于是从远程获取最新版本并融合到本地 git pull = git fetch + git merge git fetch更安全一些，在merge前，可以查看更新情况，然后再决定是否合并
 21. Push的意义是     git push是上传本地所有分支代码到远程对应的分支上
 
-
-
+ A
   
   
